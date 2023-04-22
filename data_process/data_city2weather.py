@@ -41,7 +41,7 @@ def get_city_weather(files):
     获取三元组《city，气候，weather》;
     获得city字典
     :param files: 文件列表，
-    :return: city2weather.csv dict/city.txt
+    :return: data/city2weather.csv dict/city.txt
     """
     city2weather = {'city': 'weather'}
 

@@ -42,7 +42,7 @@ def get_plant_nutrition(files):
     获取三元组《food，营养，nutrition》;
     获得city字典
     :param files: 文件列表，
-    :return: plant2nutrition.csv dict/food.txt
+    :return: data/plant2nutrition.csv dict/food.txt
     """
     plant2nutrition = {'food': 'nutrition'}
 

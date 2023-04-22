@@ -46,7 +46,7 @@ def get_plant_detail(files):
     获取三元组《plant，气候，detail》;
     获得city字典
     :param files: 文件列表，
-    :return: plant2detail.csv dict/plant.txt
+    :return: data/plant2detail.csv dict/plant.txt
     """
     plant2detail = {'plant': 'detail'}
 
